@@ -1,0 +1,11 @@
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Zoo\Zoo\bin\Debug\Zoo.exe.config
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Zoo\Zoo\bin\Debug\Zoo.exe
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Zoo\Zoo\bin\Debug\Zoo.pdb
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Zoo\Zoo\bin\Debug\ZooManager.dll
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Zoo\Zoo\bin\Debug\ZooManager.pdb
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.csprojResolveAssemblyReference.cache
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.exe
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.pdb
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\Zoo\bin\Debug\Zoo.exe.config
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\Zoo\obj\Debug\Zoo.exe
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\Zoo\obj\Debug\Zoo.pdb

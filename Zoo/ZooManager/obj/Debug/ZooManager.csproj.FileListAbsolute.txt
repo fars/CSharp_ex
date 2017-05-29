@@ -1,0 +1,5 @@
+p:\Users\ptcvas16\documents\visual studio 2015\Projects\Zoo\ZooManager\bin\Debug\ZooManager.dll
+p:\Users\ptcvas16\documents\visual studio 2015\Projects\Zoo\ZooManager\bin\Debug\ZooManager.pdb
+p:\Users\ptcvas16\documents\visual studio 2015\Projects\Zoo\ZooManager\obj\Debug\ZooManager.dll
+p:\Users\ptcvas16\documents\visual studio 2015\Projects\Zoo\ZooManager\obj\Debug\ZooManager.pdb
+p:\Users\ptcvas16\documents\visual studio 2015\Projects\Zoo\ZooManager\obj\Debug\ZooManager.csprojResolveAssemblyReference.cache
