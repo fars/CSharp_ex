@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ZooManager;
+
 
 namespace Zoo
 {
@@ -11,7 +11,7 @@ namespace Zoo
     {
         static void Main(string[] args)
         {
-            ZooManagerSingleton zooManager = ZooManagerSingleton.GetInstance();
+            ZooPark zoo = new ZooPark();
         }
 
     }
