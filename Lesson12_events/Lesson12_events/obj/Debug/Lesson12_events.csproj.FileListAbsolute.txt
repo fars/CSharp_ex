@@ -1,0 +1,12 @@
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Lesson12_events\Lesson12_events\bin\Debug\Lesson12_events.exe.config
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Lesson12_events\Lesson12_events\bin\Debug\Lesson12_events.exe
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Lesson12_events\Lesson12_events\bin\Debug\Lesson12_events.pdb
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Lesson12_events\Lesson12_events\obj\Debug\Lesson12_events.csprojResolveAssemblyReference.cache
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Lesson12_events\Lesson12_events\obj\Debug\Lesson12_events.exe
+p:\users\ptcvas16\documents\visual studio 2015\Projects\Lesson12_events\Lesson12_events\obj\Debug\Lesson12_events.pdb
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson12_events\Lesson12_events\bin\Debug\Lesson12_events.exe.config
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson12_events\Lesson12_events\obj\Debug\Lesson12_events.exe
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson12_events\Lesson12_events\obj\Debug\Lesson12_events.pdb
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson12_events\Lesson12_events\bin\Debug\Lesson12_events.exe
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson12_events\Lesson12_events\bin\Debug\Lesson12_events.pdb
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson12_events\Lesson12_events\obj\Debug\Lesson12_events.csprojResolveAssemblyReference.cache

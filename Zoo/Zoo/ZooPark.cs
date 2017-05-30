@@ -9,8 +9,14 @@ namespace Zoo
 {
     public class ZooPark
     {
-        private int _zooAquariumCapacity = 0;
-        private int _zooCagesCapacity = 0;
+        private int _cagesNum = 0;
+        private int _poolsNum = 0;
+
+        private int _cagesCount = 0;
+        private int _poolsCount = 0;
+
+        private List<Cage> _cagesList = new List<Cage>();
+        private List<Pool> _poolsList = new List<Pool>();
 
         private ZooManagerSingleton _zooManager = ZooManagerSingleton.GetInstance();
 
@@ -21,12 +27,20 @@ namespace Zoo
         {
             zooAddress = "Kiev, Pobedy str., 7";
             zooName = "KievZoo";
-        }
-
-        public ZooPark(string name, string address, int cageNum, int aquariumNum)
-        {
-
-        }
+            _cagesNum = 0;
+            _poolsNum = 0;
     }
+
+        public ZooPark(string name, string address, int cagesNum, int poolsNum)
+        {
+            zooAddress = address;
+            zooName = name;
+            _cagesNum = cagesNum;
+            _poolsNum = poolsNum;
+        }
+
+
+    }
+
 }
 

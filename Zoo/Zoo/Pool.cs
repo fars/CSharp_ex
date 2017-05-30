@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zoo
 {
-    abstract public class Animal
+    public class Pool
     {
-        protected int Age = 0;
     }
-
 }

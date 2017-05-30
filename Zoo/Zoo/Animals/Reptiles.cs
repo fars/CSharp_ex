@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Zoo
 {
-    public interface ISwimmable
+    public class Reptiles : Animal
     {
+
     }
 }

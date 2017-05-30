@@ -11,13 +11,4 @@ namespace Zoo
 
     }
 
-    public sealed class Shark : Fish, ISwimmable
-    {
-
-    }
-
-    public sealed class GoldFish : Fish, ISwimmable
-    {
-
-    }
 }
