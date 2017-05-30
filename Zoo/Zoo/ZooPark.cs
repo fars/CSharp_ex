@@ -9,6 +9,9 @@ namespace Zoo
 {
     public class ZooPark
     {
+        private DateTime _startWorkingTime;
+        private DateTime _endWorkingTime;
+
         private int _cagesNum = 0;
         private int _poolsNum = 0;
 
