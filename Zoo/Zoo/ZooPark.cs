@@ -39,6 +39,16 @@ namespace Zoo
             _poolsNum = poolsNum;
         }
 
+        public void StartWork()
+        {
+            _zooManager.StartWork();
+        }
+
+        public ZooManagerSingleton GetManager()
+        {
+            return _zooManager;
+        }
+
 
     }
 

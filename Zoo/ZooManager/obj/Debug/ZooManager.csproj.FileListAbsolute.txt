@@ -3,3 +3,8 @@ p:\Users\ptcvas16\documents\visual studio 2015\Projects\Zoo\ZooManager\bin\Debug
 p:\Users\ptcvas16\documents\visual studio 2015\Projects\Zoo\ZooManager\obj\Debug\ZooManager.dll
 p:\Users\ptcvas16\documents\visual studio 2015\Projects\Zoo\ZooManager\obj\Debug\ZooManager.pdb
 p:\Users\ptcvas16\documents\visual studio 2015\Projects\Zoo\ZooManager\obj\Debug\ZooManager.csprojResolveAssemblyReference.cache
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooManager\bin\Debug\ZooManager.dll
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooManager\bin\Debug\ZooManager.pdb
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooManager\obj\Debug\ZooManager.csprojResolveAssemblyReference.cache
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooManager\obj\Debug\ZooManager.dll
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooManager\obj\Debug\ZooManager.pdb

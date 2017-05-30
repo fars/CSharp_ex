@@ -3,11 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ZooManager;
 
 namespace Zoo
 {
     public class Crockodile : Reptiles, ISwimmable, IPredators
     {
+        public Crockodile(ZooManagerSingleton manager, int age, int maxWorkAge) : base( manager, age, maxWorkAge)
+        {
+
+        }
+
         public void EatMeat()
         {
 

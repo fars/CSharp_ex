@@ -8,6 +8,12 @@ namespace ZooManager
 {
     public class ZooManagerSingleton
     {
+        public EventArgs data = null;
+
+        public delegate void TickHandler(ZooManagerSingleton sender, EventArgs data);
+
+        public event TickHandler TickEvent;
+
         private static readonly ZooManagerSingleton _instance = new ZooManagerSingleton();
 
         private ZooManagerSingleton()
@@ -18,5 +24,20 @@ namespace ZooManager
         {
             return _instance;
         }
+
+        public void StartWork()
+        {
+            while (true)
+            {
+                System.Threading.Thread.Sleep(1000);
+
+                if (TickEvent != null)
+                {
+                    // Rise event
+                    TickEvent(this, data);
+                }
+            }
+        }
+
     }
 }

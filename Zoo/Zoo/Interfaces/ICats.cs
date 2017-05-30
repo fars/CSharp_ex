@@ -8,5 +8,6 @@ namespace Zoo
 {
     public interface ICats
     {
+        void TreeClimbers();
     }
 }

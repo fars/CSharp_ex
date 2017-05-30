@@ -43,16 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
-    <Compile Include="Fish.cs" />
-    <Compile Include="ICats.cs" />
-    <Compile Include="INonPedators.cs" />
-    <Compile Include="IPredators.cs" />
-    <Compile Include="ISwimmable.cs" />
-    <Compile Include="Mammals.cs" />
+    <Compile Include="Animals\Animal.cs" />
+    <Compile Include="Animals\Frog.cs" />
+    <Compile Include="Animals\Snake.cs" />
+    <Compile Include="Animals\Lizard.cs" />
+    <Compile Include="Animals\Crockodile.cs" />
+    <Compile Include="Animals\Shark.cs" />
+    <Compile Include="Animals\GoldFish.cs" />
+    <Compile Include="Animals\Fish.cs" />
+    <Compile Include="Pool.cs" />
+    <Compile Include="Cage.cs" />
+    <Compile Include="Interfaces\ICats.cs" />
+    <Compile Include="Interfaces\INonPedators.cs" />
+    <Compile Include="Interfaces\IPredators.cs" />
+    <Compile Include="Interfaces\ISwimmable.cs" />
+    <Compile Include="Animals\Mammals.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Reptiles.cs" />
+    <Compile Include="Animals\Reptiles.cs" />
     <Compile Include="ZooPark.cs" />
   </ItemGroup>
   <ItemGroup>

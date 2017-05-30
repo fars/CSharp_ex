@@ -12,6 +12,9 @@ namespace Zoo
         static void Main(string[] args)
         {
             ZooPark zoo = new ZooPark();
+            Lione lion = new Lione(zoo.GetManager(), 1, 10);
+            Tiger tiger = new Tiger(zoo.GetManager(), 3, 12);
+            zoo.StartWork();
         }
 
     }
