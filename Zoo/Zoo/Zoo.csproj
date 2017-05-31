@@ -55,6 +55,7 @@
     <Compile Include="Animals\Shark.cs" />
     <Compile Include="Animals\GoldFish.cs" />
     <Compile Include="Animals\Fish.cs" />
+    <Compile Include="PoolGenericList.cs" />
     <Compile Include="Pool.cs" />
     <Compile Include="Cage.cs" />
     <Compile Include="Interfaces\ICats.cs" />

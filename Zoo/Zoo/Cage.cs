@@ -8,5 +8,20 @@ namespace Zoo
 {
     public class Cage
     {
+        private Dictionary<string, Animal> _animalName = new Dictionary<string, Animal>();
+
+        public void AddAnimal(string name, Animal animal)
+        {
+            try
+            {
+                _animalName.Add(name, animal);
+                Console.WriteLine("Added " + name);
+            }
+            catch (ArgumentException e)
+            {
+                Console.WriteLine("Can't add " + e.Message);
+            }
+           
+        }
     }
 }
