@@ -36,6 +36,11 @@ namespace Zoo
 
         public ZooPark(string name, string address, int cagesNum, int poolsNum)
         {
+            if (name == null || address == null)
+            {
+                throw new ArgumentException("Name or adress is null");
+            }
+
             zooAddress = address;
             zooName = name;
             _cagesNum = cagesNum;

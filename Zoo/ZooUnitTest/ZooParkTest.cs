@@ -13,5 +13,19 @@ namespace ZooUnitTest
             ZooPark zoo = new ZooPark();
             Assert.AreSame(zoo.zooName, "KievZoo");
         }
+
+        [TestMethod]
+        public void TestZooParkConsructorNullArguments()
+        {
+            try
+            {
+                ZooPark zoo = new ZooPark(null, null, 0, 0);
+            }
+            catch (ArgumentException e)
+            {
+                Assert.AreSame(e.Message, "Name or adress is null");
+            }
+           
+        }
     }
 }
