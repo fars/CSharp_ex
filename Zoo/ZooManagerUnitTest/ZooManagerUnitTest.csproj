@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{62861BF6-427A-4E17-A895-CE64C9C164F3}</ProjectGuid>
+    <ProjectGuid>{381989ED-61A1-49A8-AE49-0D1482DA322B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ZooUnitTest</RootNamespace>
-    <AssemblyName>ZooUnitTest</AssemblyName>
+    <RootNamespace>ZooManagerUnitTest</RootNamespace>
+    <AssemblyName>ZooManagerUnitTest</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -50,13 +50,13 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="ZooParkTest.cs" />
+    <Compile Include="ZooManagerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Zoo\Zoo.csproj">
-      <Project>{2fe933f1-f07e-426d-a171-20d4533abcea}</Project>
-      <Name>Zoo</Name>
+    <ProjectReference Include="..\ZooManager\ZooManager.csproj">
+      <Project>{9517ddf5-a7b1-40d0-8a62-2458572331fa}</Project>
+      <Name>ZooManager</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

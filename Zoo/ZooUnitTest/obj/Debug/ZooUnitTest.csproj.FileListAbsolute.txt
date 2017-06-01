@@ -1,0 +1,10 @@
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\bin\Debug\ZooUnitTest.dll
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\bin\Debug\ZooUnitTest.pdb
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\bin\Debug\Zoo.exe
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\bin\Debug\ZooManager.dll
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\bin\Debug\Zoo.pdb
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\bin\Debug\ZooManager.pdb
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\obj\Debug\ZooUnitTest.csprojResolveAssemblyReference.cache
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\obj\Debug\ZooUnitTest.dll
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Zoo\ZooUnitTest\obj\Debug\ZooUnitTest.pdb
