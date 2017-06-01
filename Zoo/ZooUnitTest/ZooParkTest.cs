@@ -24,7 +24,10 @@ namespace ZooUnitTest
             catch (ArgumentException e)
             {
                 Assert.AreSame(e.Message, "Name or adress is null");
+                return;
             }
+
+            Assert.Fail("No exception was throwed");
            
         }
     }
