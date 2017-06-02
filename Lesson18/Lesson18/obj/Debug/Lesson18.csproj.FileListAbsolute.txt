@@ -1,0 +1,6 @@
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson18\Lesson18\bin\Debug\Lesson18.exe.config
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson18\Lesson18\bin\Debug\Lesson18.exe
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson18\Lesson18\bin\Debug\Lesson18.pdb
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson18\Lesson18\obj\Debug\Lesson18.csprojResolveAssemblyReference.cache
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson18\Lesson18\obj\Debug\Lesson18.exe
+P:\Users\ptcvas16\Documents\Visual Studio 2015\Projects\CSharp_ex\Lesson18\Lesson18\obj\Debug\Lesson18.pdb
